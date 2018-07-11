@@ -14,4 +14,11 @@
 - [> Level 11]("https://github.com/fabilqis/jsweb/blob/master/level11.js")
 - [> Level 12]("https://github.com/fabilqis/jsweb/blob/master/level12.js")
 - [> Level 13]("https://github.com/fabilqis/jsweb/blob/master/level13.js")
+- [> Level 14]("https://github.com/fabilqis/jsweb/blob/master/level14.js")
+- [> Level 15]("https://github.com/fabilqis/jsweb/blob/master/level15.js")
+- [> Level 16]("https://github.com/fabilqis/jsweb/blob/master/level16.js")
+- [> Level 17]("https://github.com/fabilqis/jsweb/blob/master/level17.js")
+- [> Level 18]("https://github.com/fabilqis/jsweb/blob/master/level18.js")
+- [> Level 19]("https://github.com/fabilqis/jsweb/blob/master/level19.js")
+- [> Level 20]("https://github.com/fabilqis/jsweb/blob/master/level10.js")
 
