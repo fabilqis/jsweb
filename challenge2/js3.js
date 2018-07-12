@@ -21,11 +21,17 @@ const guest2 = [
     "Mr. Jamal"
 ]
 
-guest1.concat(guest2).forEach(function(element){
-    if( element.split(" ")[1].includes('E')){
-        console.log("Dengan nama :", element);
-    }
-});
+const guests = guest1.concat(guest2)
+
+const searchName = (names, keyword) => {
+    names.forEach(function (element) {
+        const splitted = element.split(" ")[1]
+
+        if (splitted.toLowerCase().includes(keyword)) {
+            console.log("Dengan nama :", element);
+        }
+    });
+}
 
 //or
 // const search = (name){
@@ -35,6 +41,3 @@ guest1.concat(guest2).forEach(function(element){
 //     )
 //     console.log(searching);
 // };
-
-
-

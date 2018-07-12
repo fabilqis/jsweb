@@ -8,12 +8,12 @@ const names = [
     "Mrs. Mela"
 ];
 
-names.forEach(name=>{
+names.forEach(name => {
     console.log(name);
-    });
-    
-    const displayOnebyOne = (array) => {
+});
+
+const displayOnebyOne = (array) => {
     array.map(item => console.log(item))
-    }
-    
-    displayOnebyOne(names)
+}
+
+displayOnebyOne(names)

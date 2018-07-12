@@ -12,14 +12,13 @@ const names = [
     7,
     22,
     "Mr. Hakim"
-  ];
-  
-const allMember = (name) =>{
+];
+
+const allMember = (name) => {
     name.forEach(item => {
         // console.log(typeof item == "string");
-        if (typeof item == "string"){
-            console.log (item);
-        } 
+        if (typeof item == "string") {
+            console.log(item);
+        }
     });
- 
 }
